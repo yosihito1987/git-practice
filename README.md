@@ -1,4 +1,1 @@
-# git-practice
-このリポジトリはGit動画講座用です．
-自分のリポジトリで更新
-main rebaseコンフリクト
+# git-practiceこのリポジトリはGit動画講座用です．自分のリポジトリで更新rebaseコンフリクト
